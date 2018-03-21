@@ -1,0 +1,57 @@
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\MainWindow.g.cs
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\App.g.cs
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\MainWindow.baml
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\Snake.g.resources
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\sebmu\documents\visual studio 2017\Projects\Snake\Snake\obj\Debug\Snake.pdb
+D:\Projects\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Projects\Snake\Snake\Snake\bin\Debug\Snake.exe
+D:\Projects\Snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\Projects\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Projects\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+D:\Projects\Snake\Snake\Snake\obj\Debug\App.g.cs
+D:\Projects\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+D:\Projects\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+D:\Projects\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+D:\Projects\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+D:\Projects\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Projects\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+D:\Projects\Snake\Snake\Snake\obj\Debug\Snake.exe
+D:\Projects\Snake\Snake\Snake\obj\Debug\Snake.pdb
+F:\Projekte\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+F:\Projekte\Snake\Snake\Snake\bin\Debug\Snake.exe
+F:\Projekte\Snake\Snake\Snake\bin\Debug\Snake.pdb
+F:\Projekte\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+F:\Projekte\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+F:\Projekte\Snake\Snake\Snake\obj\Debug\App.g.cs
+F:\Projekte\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+F:\Projekte\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+F:\Projekte\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+F:\Projekte\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+F:\Projekte\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+F:\Projekte\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+F:\Projekte\Snake\Snake\Snake\obj\Debug\Snake.exe
+F:\Projekte\Snake\Snake\Snake\obj\Debug\Snake.pdb
+G:\projekte_old\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+G:\projekte_old\Snake\Snake\Snake\bin\Debug\Snake.exe
+G:\projekte_old\Snake\Snake\Snake\bin\Debug\Snake.pdb
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\MainWindow.g.cs
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\App.g.cs
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.cache
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake_MarkupCompile.lref
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\MainWindow.baml
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake.g.resources
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake.exe
+G:\projekte_old\Snake\Snake\Snake\obj\Debug\Snake.pdb
